@@ -6,7 +6,7 @@ A simulation in AnyLogic of a restaurant with three terminals for payment order 
 <br>
 
 <p>Flowchart:</p>
-<img src="images/rt-flowchart.png" width="400"/>
+<img src="images/rt-flowchart.png" width="600"/>
 <br>
 
 <p>2D animation:</p>
@@ -18,5 +18,5 @@ A simulation in AnyLogic of a restaurant with three terminals for payment order 
 <br>
 
 <p>Average queue time:</p>
-<img src="images/rt-statistics.png" width="350"/>
+<img src="images/rt-statistics.png" width="300"/>
 <br>
